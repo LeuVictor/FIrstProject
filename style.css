@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.user{
+    display: flex;
+    line-height: 25px;
+}
